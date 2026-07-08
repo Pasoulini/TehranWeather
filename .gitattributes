@@ -1,0 +1,15 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# Custom for Rainmeter projects
+*.ini linguist-language=INI
+*.lua linguist-language=Lua
+*.md linguist-documentation=true
+
+# Rainmeter config files - mark as primary language
+*.ini linguist-detectable=true
+
+# Prevent binary files from being detected
+*.png binary
+*.jpg binary
+*.gif binary
