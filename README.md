@@ -5,6 +5,7 @@ A sleek Rainmeter weather widget for Tehran powered by the **Open-Meteo API** �
 ![Rainmeter](https://img.shields.io/badge/Rainmeter-Skin-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey)
+![Author](https://img.shields.io/badge/Author-Parsa%20Rasouli-orange)
 
 ## Features
 
@@ -13,13 +14,15 @@ A sleek Rainmeter weather widget for Tehran powered by the **Open-Meteo API** �
 - High/Low daily temperatures
 - Humidity, wind speed, and precipitation
 - Auto-refresh every 4 hours
-- Clean dark UI design
+- Hover effects with smooth transitions
+- Clean dark UI with blur effect
+- Tooltips with detailed information
 
 ## Screenshot
 
 ```
 ┌─────────────────────────────┐
-│  Tehran              14:30  │
+│  Tehran                     │
 │  32°C         ☀️ Clear      │
 │         Feels like 30°C     │
 │─────────────────────────────│
@@ -95,4 +98,4 @@ MIT License - feel free to use and modify.
 
 ## Author
 
-Made with [Rainmeter](https://www.rainmeter.net/) and good vibes.
+Made by **Parsa Rasouli** with [Rainmeter](https://www.rainmeter.net/) and good vibes.
